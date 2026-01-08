@@ -164,7 +164,7 @@ Where I is the identity matrix and lambda is a scalar value that you choose. Thi
 
 ## II. K Nearest Neighbors
 
-K Nearest Neighbors is perhaps the easiest algorithm to implement in the Casio. We lay out the data in a spreadsheet, dedicate a column for distance calculation, then manually select k nearest data rows and decide what to do from that. Some applications include classification and regression. For classification, you would get the label that showed up the most amongst the neighbors, and you would get the mean result of them for regression problems. Of course there could be more configurations and applications, but I won't do into that here.
+K Nearest Neighbors is perhaps the easiest algorithm to implement in the Casio. We lay out the data in a spreadsheet, dedicate a column for distance calculation, then manually select k nearest data rows and decide what to do from that. Some applications include classification and regression. For classification, you would get the label that showed up the most amongst the neighbors, and you would get the mean result of them for regression problems. Of course there could be more configurations and applications, but I won't go into that here.
 
 As an example, let's solve a classification problem:
 ```
