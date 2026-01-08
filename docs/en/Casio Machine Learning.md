@@ -1,4 +1,4 @@
-# Casio Coding
+# Casio Machine Learning
 
 *Contact: minhmok095@gmail.com*
 
